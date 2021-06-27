@@ -28,8 +28,8 @@
 #include "wu_assist.h"
 
 #define CLK_PIN 18
-#define MOSI_PIN 23
-#define MISO_PIN 19
+#define MOSI_PIN 19
+#define MISO_PIN 23
 #define SS_PIN 5
 
 //#define GDO0 32 not used currently
